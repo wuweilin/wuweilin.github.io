@@ -15,6 +15,6 @@ tags:
 * jekyll直接clone工程，不需要编译，换电脑比较容易
 
 ## 相同的点
-###本地预览
+### 本地预览
 * jekyll server不需要clean的过程
 * hexo clean -> hexo g -s
